@@ -1,2 +1,2 @@
-# generate-po
-Program sederhana untuk menghasilkan kode purchase order yang dibuat dengan bahasa pemrograman Python.
+# Generate PO
+Program sederhana untuk menghasilkan kode purchase order. Dibuat dengan bahasa pemrograman Python.
